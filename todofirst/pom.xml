@@ -6,7 +6,6 @@
 	<groupId>com.example</groupId>
 	<artifactId>todofirst</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 
 	<name>todofirst</name>
 	<description>Demo project for Spring Boot</description>
